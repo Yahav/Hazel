@@ -3,3 +3,7 @@ coverage
 
 # dependencies
 node_modules
+/.idea/.gitignore
+/.idea/Hazel.iml
+/.idea/modules.xml
+/.idea/vcs.xml
